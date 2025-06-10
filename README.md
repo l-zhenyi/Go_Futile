@@ -8,8 +8,8 @@ It takes less than 10-minutes to play and was a fun project to familiarise mysel
 
 
 ## Installation and Running Instructions
-Prequisites: Golang, Ebitengine
-Detailed instructions on how to install Ebitengine can be found at the [Ebitengine website](https://ebitengine.org/en/documents/install.html).
+Prequisites: Golang, Ebitengine<br>
+Detailed instructions on checking your device's compatability with Ebitengine can be found at the [Ebitengine website](https://ebitengine.org/en/documents/install.html).
 In the project root diretory, run the following command in your terminal:
 
 ```bash
